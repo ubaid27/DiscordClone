@@ -23,5 +23,5 @@ This project is a landing page for a Discord clone, designed using Tailwind CSS.
 ### Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/discord-clone-landing-page.git
+   git clone https://github.com/ubaid27/discord-clone-landing-page.git
    cd discord-clone-landing-page
